@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/JavaScript_PG-5/",
+    "build": "vite build --base=/js_99_Vantron777/",
     "preview": "vite preview"
   },
   "devDependencies": {
